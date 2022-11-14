@@ -40,4 +40,3 @@ if bet:
             turtle_racer.forward(distance)
 
 
-screen.exitonclick()
