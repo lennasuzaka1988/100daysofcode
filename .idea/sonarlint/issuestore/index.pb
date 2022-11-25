@@ -11,14 +11,6 @@ E
 num_guess_game_art.py,1\7\17072a1bfd4a8dcd6ef9a672e3ea2663f3d350ab
 D
 num-guessing-game.py,6\b\6b8f9ba0dac71c12d5de89d7a50861ea1e7ba2ee
-Q
-!quiz-game-start/question_model.py,8\d\8d983b242a1122924460f05fae2fc4ef60a701dd
-M
-quiz-game-start/quiz_brain.py,b\2\b2bbb19d91e981d2e5b8f12820fdaf41c642fe53
-G
-quiz-game-start/main.py,e\8\e8d4e2c6611df7148bc423d012b145cd54c63ca8
-G
-quiz-game-start/data.py,1\e\1e4e5e4d04307b024653e6f791a99032ac9f1329
 A
 coffee-machine.py,8\b\8bea34159c15723e395c4b51be2f4675025d1237
 F
@@ -39,11 +31,19 @@ G
 pong_day_22/mid_line.py,f\c\fcba466cc8891c84ee37afded5630c18aabe4f2c
 ?
 day-17-start.py,b\4\b4cfaf1154489574ab6637df0c28dbf63cc543fe
-L
-snake_game_day_20_21/food.py,4\f\4f9fed2f5ce7a6bde3592264bf26cc069ea6b318
-M
-snake_game_day_20_21/snake.py,c\2\c2c2e924a2f77f9f257fe8e6e20f6c3ac8d09902
-T
-$snake_game_day_20_21/day-20-snake.py,f\1\f11eefed014d1d791e125161689180e0efce0ea4
-R
-"snake_game_day_20_21/scoreboard.py,5\6\561ccf9c78e8ef420b5eb7df09ad95178d4e8952
+Z
+*day_24_write_and_open_files/high_score.txt,4\6\46af3ad77aa347e2e382fe24d950960f72c1a2f8
+]
+-day_24_write_and_open_files/invites/ Zuko.txt,7\4\740737c2895f53ad1ab523f055d0b054fb7b8be3
+_
+/day_24_write_and_open_files/invites/ Katara.txt,1\3\1369de3b29f2ce4aa12ab5019ebca110c2d8a690
+]
+-day_24_write_and_open_files/invites/ Momo.txt,8\d\8d77795cd45dbfd34a8d336a7d17359b50b74ec5
+^
+.day_24_write_and_open_files/invites/ Sokka.txt,b\0\b0fe01f07287789789e9aebe9dce32d6a0e5c950
+I
+pong_day_22/scoreboard.py,0\d\0d332f01dc3b3000aa3998807888fd53081302b8
+]
+-day_24_write_and_open_files/invites/ Aang.txt,d\f\dfe789017c8a0c3e78dbf7f532dbdb0060291309
+]
+-day_24_write_and_open_files/invites/ Appa.txt,5\b\5b9dad7c40ecd87d65a5cf3eca12f3ad6bbccd65

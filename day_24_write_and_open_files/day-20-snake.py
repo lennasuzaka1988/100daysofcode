@@ -19,7 +19,6 @@ screen.bgcolor("black")
 screen.title("Snake Game")
 screen.tracer(0)
 
-
 snake = Snake()
 food = Food()
 score = Scoreboard()
@@ -44,6 +43,7 @@ while game:
         score.score_increase()
 
     if snake.head.xcor() < -280 or snake.head.xcor() > 280 or snake.head.ycor() < -280 or snake.head.ycor() > 280:
+        score.high_score_write()
         score.reset()
         snake.reset()
 
@@ -51,6 +51,7 @@ while game:
         if seg == snake.head:
             pass
         elif snake.head.distance(seg) < 10:
+            score.high_score_write()
             score.reset()
             snake.reset()
 

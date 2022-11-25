@@ -6516,3 +6516,4 @@ tags
 # Persistent undo
 [._]*.un~
 
+!/day_24_write_and_open_files/high_score.txt
