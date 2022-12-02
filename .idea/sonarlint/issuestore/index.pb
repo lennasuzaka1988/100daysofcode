@@ -1,6 +1,4 @@
 
-E
-password-generator.py,4\9\4978f1d1109ecf72d4a1c5ecc954f88be24cf78d
 N
 day-nine-intro-dictionaries.py,6\c\6c2015d41129d14afad7f4077513567ed847a95b
 C
@@ -82,3 +80,25 @@ $snake_game_day_20_21/day-20-snake.py,f\1\f11eefed014d1d791e125161689180e0efce0
 -day_25_csv_data_in_python/states_to_learn.csv,5\8\58cdb3d5f0b7959b20cea82005f34925e3a71dbd
 p
 @day_26_list_comprehensions_and_nato_alphabet/states_to_learn.csv,b\4\b4ff7b8549e784dcaccb84538232b2a967c60cde
+j
+:day_26_list_comprehensions_and_nato_alphabet/50_states.csv,2\d\2d7047bf2b310bb6d1d3eeda477b9d96d0189711
+…
+Uday_26_list_comprehensions_and_nato_alphabet/nato_alphabet/nato_phonetic_alphabet.csv,e\3\e3758b6345611ea9ce511346bd4e9c200dc0c234
+a
+1day_25_csv_data_in_python/quiz-game-start/data.py,6\4\6414eeb7f665033a73e5ac82740020c9d83c8c8a
+a
+1day_25_csv_data_in_python/quiz-game-start/main.py,c\9\c99a9a8a0fc83a2c53f615283ff24a92771a3bcb
+k
+;day_25_csv_data_in_python/quiz-game-start/question_model.py,a\6\a6aaa5f33b4c7e7ae0a7c6c8b6df6167d43192a3
+g
+7day_25_csv_data_in_python/quiz-game-start/quiz_brain.py,f\1\f151ed23710ffda9b2108011fa90b1274751fb07
+f
+6day_25_csv_data_in_python/the_great_squirrel_census.py,f\5\f5ead910194dd234ab890dff1f94e85922b62182
+g
+7day_25_csv_data_in_python/quiz-game-start/scoreboard.py,a\1\a143241ba33890a9542477b2f9c3d12a41dbe165
+Q
+!day_25_csv_data_in_python/main.py,d\f\df98c2285a76b2002b998e2beff10021dac050d4
+U
+%day_29_password_manager/passwords.txt,c\3\c3fcad9db1b85bbc5190f4b2d29fe61349eb9388
+d
+4day_26_list_comprehensions_and_nato_alphabet/main.py,7\4\7445d021ee27f73bb063839a83b8e85f3e81b9e4
